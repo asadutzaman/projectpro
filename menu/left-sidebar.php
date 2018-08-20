@@ -6,7 +6,7 @@
         </div>
         <div class="info-container">
             <div class="name" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">John Doe</div>
-            <div class="email">nasim.ahmed@digicontechnologies.com</div>
+            <div class="email">it@digicontechnologies.com</div>
             <div class="btn-group user-helper-dropdown">
                 <i class="material-icons" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">keyboard_arrow_down</i>
                 <ul class="dropdown-menu pull-right">
@@ -27,7 +27,7 @@
         <ul class="list">
             <li class="header">Task</li>
             <li class="active">
-                <a href="index.php">
+                <a href="/projectpro/index.php">
                     <i class="material-icons">home</i>
                     <span>Home</span>
                 </a>
@@ -39,13 +39,13 @@
                 </a>
                 <ul class="ml-menu">
                     <li>
-                        <a href="create-task.php">Open New Task</a>
+                        <a href="/projectpro/create-task.php">Open New Task</a>
                     </li>
                     <li>
-                        <a href="pages/maps/yandex.html">YandexMap</a>
+                        <a href="">YandexMap</a>
                     </li>
                     <li>
-                        <a href="pages/maps/jvectormap.html">jVectorMap</a>
+                        <a href="">jVectorMap</a>
                     </li>
                 </ul>
             </li>
@@ -56,7 +56,7 @@
                 </a>
                 <ul class="ml-menu">
                     <li>
-                        <a href="project-list.php">
+                        <a href="/projectpro/project-list.php">
                             <span>Project List</span>
                         </a>
                     </li>
@@ -92,7 +92,7 @@
                 </ul>
             </li>
             <li>
-                <a href="pages/changelogs.html">
+                <a href="">
                   <i class="material-icons">bar_chart</i>
                     <span>Gantt Chart</span>
                 </a>
